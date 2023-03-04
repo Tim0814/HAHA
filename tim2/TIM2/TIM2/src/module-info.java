@@ -1,0 +1,2 @@
+module TIM2 {
+}
